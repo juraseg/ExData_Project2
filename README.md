@@ -1,0 +1,1 @@
+All script assume that data is in working directory
